@@ -23,7 +23,7 @@ To run this project, you will need Jupyter Notebook or Jupyter Lab installed. Yo
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/cslcalderon/understanding-diabetes.git
 pip install numpy pandas matplotlib scipy
 
 ### Running the Notebook
